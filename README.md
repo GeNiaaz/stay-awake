@@ -10,4 +10,4 @@ Simply download the release to desktop and double-click whenever you need to kee
 
 ## Compatibility
 
-So far, only tested on Windows.
+So far, only tested on ⊞ Windows.
